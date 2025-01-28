@@ -1,18 +1,18 @@
 {
   "context": {
-    "projectPath": "F:/Xr_course/HW1_Room/Packages",
+    "projectPath": "F:/Xr_course/matkol-xr-course-2025/HW1_Room/Packages",
     "unityVersion": "6000.0.35f1"
   },
   "inputs": [
-    "F:\\Xr_course\\HW1_Room\\Packages\\manifest.json",
-    "F:\\Xr_course\\HW1_Room\\Packages\\packages-lock.json",
+    "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Packages\\manifest.json",
+    "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Packages\\packages-lock.json",
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.35f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.ai.navigation@2.0.5": {
       "name": "com.unity.ai.navigation",
       "displayName": "AI Navigation",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.ai.navigation@9f76b145f0a8",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.ai.navigation@9f76b145f0a8",
       "fingerprint": "9f76b145f0a8dd734ff2a4877f7f7edb83b7f62c",
       "editorCompatibility": "2023.2.0a18",
       "version": "2.0.5",
@@ -22,7 +22,7 @@
     "com.unity.ide.rider@3.0.34": {
       "name": "com.unity.ide.rider",
       "displayName": "JetBrains Rider Editor",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.ide.rider@ecbf706690e5",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.ide.rider@ecbf706690e5",
       "fingerprint": "ecbf706690e5ce42dc165ddd8e5754acda3dc6b9",
       "editorCompatibility": "2019.4.6f1",
       "version": "3.0.34",
@@ -32,7 +32,7 @@
     "com.unity.ide.visualstudio@2.0.22": {
       "name": "com.unity.ide.visualstudio",
       "displayName": "Visual Studio Editor",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.ide.visualstudio@8140e851d83e",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.ide.visualstudio@8140e851d83e",
       "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
       "editorCompatibility": "2019.4.25f1",
       "version": "2.0.22",
@@ -42,7 +42,7 @@
     "com.unity.inputsystem@1.11.2": {
       "name": "com.unity.inputsystem",
       "displayName": "Input System",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.inputsystem@3c4a97c3950f",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.inputsystem@3c4a97c3950f",
       "fingerprint": "3c4a97c3950fef77960981e0fe90613de6e512ee",
       "editorCompatibility": "2019.4.0a1",
       "version": "1.11.2",
@@ -52,7 +52,7 @@
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.multiplayer.center@f502d8ac613f",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.multiplayer.center@f502d8ac613f",
       "fingerprint": "f502d8ac613fa076192423e73892fbd89eb4049b",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
@@ -62,7 +62,7 @@
     "com.unity.render-pipelines.universal@17.0.3": {
       "name": "com.unity.render-pipelines.universal",
       "displayName": "Universal RP",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.render-pipelines.universal@39c80789bb81",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.render-pipelines.universal@39c80789bb81",
       "fingerprint": "39c80789bb8143337aed936c9422ddd10fa5cd42",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
@@ -72,7 +72,7 @@
     "com.unity.test-framework@1.4.5": {
       "name": "com.unity.test-framework",
       "displayName": "Test Framework",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.test-framework@0a21eb82d95c",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.test-framework@0a21eb82d95c",
       "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
       "editorCompatibility": "2019.4.0a10",
       "version": "1.4.5",
@@ -82,7 +82,7 @@
     "com.unity.timeline@1.8.7": {
       "name": "com.unity.timeline",
       "displayName": "Timeline",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.timeline@c58b4ee65782",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.timeline@c58b4ee65782",
       "fingerprint": "c58b4ee65782ad38338e29f7ee67787cb6998f04",
       "editorCompatibility": "2019.3.0a1",
       "version": "1.8.7",
@@ -92,7 +92,7 @@
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
       "displayName": "Unity UI",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.ugui@24b10291b18f",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.ugui@24b10291b18f",
       "fingerprint": "24b10291b18f65e937b22d041c48712033f29449",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
@@ -102,7 +102,7 @@
     "com.unity.visualscripting@1.9.5": {
       "name": "com.unity.visualscripting",
       "displayName": "Visual Scripting",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.visualscripting@1b53f46e931b",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.visualscripting@1b53f46e931b",
       "fingerprint": "1b53f46e931bea668e53f1feb0ac9138170c9455",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.9.5",
@@ -112,7 +112,7 @@
     "com.unity.xr.interaction.toolkit@3.0.7": {
       "name": "com.unity.xr.interaction.toolkit",
       "displayName": "XR Interaction Toolkit",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@3c62ab08b942",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@3c62ab08b942",
       "fingerprint": "3c62ab08b942ff4b2fcf3c67d9ec9b00da5079fa",
       "editorCompatibility": "2021.3.0a1",
       "version": "3.0.7",
@@ -122,7 +122,7 @@
     "com.unity.xr.openxr@1.14.0": {
       "name": "com.unity.xr.openxr",
       "displayName": "OpenXR Plugin",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.xr.openxr@97381c723a9c",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.xr.openxr@97381c723a9c",
       "fingerprint": "97381c723a9c4a7b56925c2aa4e742b3348f7eac",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.14.0",
@@ -404,7 +404,7 @@
     "com.unity.xr.core-utils@2.5.1": {
       "name": "com.unity.xr.core-utils",
       "displayName": "XR Core Utilities",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.xr.core-utils@c0df0dd5bced",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.xr.core-utils@c0df0dd5bced",
       "fingerprint": "c0df0dd5bced783e855e63d640484ff72ea7dea8",
       "editorCompatibility": "2021.3.0f1",
       "version": "2.5.1",
@@ -414,7 +414,7 @@
     "com.unity.xr.management@4.5.0": {
       "name": "com.unity.xr.management",
       "displayName": "XR Plugin Management",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.xr.management@3126858600e6",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.xr.management@3126858600e6",
       "fingerprint": "3126858600e621b17ff9bfda920ebf34b9f2414c",
       "editorCompatibility": "2020.3.15f1",
       "version": "4.5.0",
@@ -424,7 +424,7 @@
     "com.unity.xr.legacyinputhelpers@2.1.11": {
       "name": "com.unity.xr.legacyinputhelpers",
       "displayName": "XR Legacy Input Helpers",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers@a3936666e068",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers@a3936666e068",
       "fingerprint": "a3936666e06871a5fd0461a69a4d99efb31a21c1",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.1.11",
@@ -434,7 +434,7 @@
     "com.unity.mathematics@1.3.2": {
       "name": "com.unity.mathematics",
       "displayName": "Mathematics",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.mathematics@8017b507cc74",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.mathematics@8017b507cc74",
       "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.3.2",
@@ -444,7 +444,7 @@
     "com.unity.ext.nunit@2.0.5": {
       "name": "com.unity.ext.nunit",
       "displayName": "Custom NUnit",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.ext.nunit@60ef35ffd3cd",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.ext.nunit@60ef35ffd3cd",
       "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.5",
@@ -454,7 +454,7 @@
     "com.unity.render-pipelines.core@17.0.3": {
       "name": "com.unity.render-pipelines.core",
       "displayName": "Core RP Library",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.render-pipelines.core@a50b3570474f",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.render-pipelines.core@a50b3570474f",
       "fingerprint": "a50b3570474f5e869509952e406c548d41f2490e",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
@@ -464,7 +464,7 @@
     "com.unity.shadergraph@17.0.3": {
       "name": "com.unity.shadergraph",
       "displayName": "Shader Graph",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.shadergraph@911117698220",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.shadergraph@911117698220",
       "fingerprint": "9111176982208cf007caa931c3cf2716ceec4632",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
@@ -474,7 +474,7 @@
     "com.unity.render-pipelines.universal-config@17.0.3": {
       "name": "com.unity.render-pipelines.universal-config",
       "displayName": "Universal RP Config",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.render-pipelines.universal-config@fa63c96d3e1a",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.render-pipelines.universal-config@fa63c96d3e1a",
       "fingerprint": "fa63c96d3e1af317d84d171cd6c0e0658ab159df",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
@@ -484,7 +484,7 @@
     "com.unity.searcher@4.9.2": {
       "name": "com.unity.searcher",
       "displayName": "Searcher",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.searcher@90d011a70418",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.searcher@90d011a70418",
       "fingerprint": "90d011a70418fd5b0f4b8e86df39444d2af228dd",
       "editorCompatibility": "2019.1.0a1",
       "version": "4.9.2",
@@ -494,7 +494,7 @@
     "com.unity.burst@1.8.18": {
       "name": "com.unity.burst",
       "displayName": "Burst",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.burst@616862665d8c",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.burst@616862665d8c",
       "fingerprint": "616862665d8c8ffe643d505aebb5de2ee73b0ab0",
       "editorCompatibility": "2020.3.0a1",
       "version": "1.8.18",
@@ -504,7 +504,7 @@
     "com.unity.collections@2.5.1": {
       "name": "com.unity.collections",
       "displayName": "Collections",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.collections@56bff8827a7e",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.collections@56bff8827a7e",
       "fingerprint": "56bff8827a7ef6d44fcee4f36e558a74da89c1a0",
       "editorCompatibility": "2022.3.11f1",
       "version": "2.5.1",
@@ -514,7 +514,7 @@
     "com.unity.rendering.light-transport@1.0.1": {
       "name": "com.unity.rendering.light-transport",
       "displayName": "Unity Light Transport Library",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.rendering.light-transport@307bc27a498f",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.rendering.light-transport@307bc27a498f",
       "fingerprint": "307bc27a498fc9cd409bbd426c85d8dc7f140bc1",
       "editorCompatibility": "2023.3.0b1",
       "version": "1.0.1",
@@ -524,7 +524,7 @@
     "com.unity.nuget.mono-cecil@1.11.4": {
       "name": "com.unity.nuget.mono-cecil",
       "displayName": "Mono Cecil",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.nuget.mono-cecil@d6f9955a5d5f",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.nuget.mono-cecil@d6f9955a5d5f",
       "fingerprint": "d6f9955a5d5f84d45442ff1ad0fb694cc6e2fd62",
       "editorCompatibility": "2018.4.0a1",
       "version": "1.11.4",
@@ -534,7 +534,7 @@
     "com.unity.test-framework.performance@3.0.3": {
       "name": "com.unity.test-framework.performance",
       "displayName": "Performance testing API",
-      "resolvedPath": "F:\\Xr_course\\HW1_Room\\Library\\PackageCache\\com.unity.test-framework.performance@fb0dc592af8b",
+      "resolvedPath": "F:\\Xr_course\\matkol-xr-course-2025\\HW1_Room\\Library\\PackageCache\\com.unity.test-framework.performance@fb0dc592af8b",
       "fingerprint": "fb0dc592af8b524f1a06c50d7caf95552f1bcd2f",
       "editorCompatibility": "2020.3.0a1",
       "version": "3.0.3",

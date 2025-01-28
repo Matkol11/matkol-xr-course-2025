@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: F:/Xr_course/HW1_Room/Packages/manifest.json
+    m_FilePath: F:/Xr_course/matkol-xr-course-2025/HW1_Room/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 638734373837717408
     m_Hash: 1619959509
   m_LockFileStatus:
-    m_FilePath: F:/Xr_course/HW1_Room/Packages/packages-lock.json
+    m_FilePath: F:/Xr_course/matkol-xr-course-2025/HW1_Room/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: F:/Xr_course/HW1_Room/Packages
+m_ProjectPath: F:/Xr_course/matkol-xr-course-2025/HW1_Room/Packages
 m_EditorVersion: 6000.0.35f1 (9a3bc604008a)
 m_ResolvedPackages:
 - packageId: com.unity.ai.navigation@2.0.5
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.5
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.ai.navigation@9f76b145f0a8
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.ai.navigation@9f76b145f0a8
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -135,7 +135,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.34
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.ide.rider@ecbf706690e5
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.ide.rider@ecbf706690e5
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -251,7 +251,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.22
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.ide.visualstudio@8140e851d83e
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.ide.visualstudio@8140e851d83e
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -357,7 +357,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.11.2
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.inputsystem@3c4a97c3950f
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.inputsystem@3c4a97c3950f
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -510,7 +510,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.multiplayer.center@f502d8ac613f
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.multiplayer.center@f502d8ac613f
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -600,7 +600,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.0.3
   source: 2
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.render-pipelines.universal@39c80789bb81
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.render-pipelines.universal@39c80789bb81
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal RP
@@ -762,7 +762,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.4.5
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.test-framework@0a21eb82d95c
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.test-framework@0a21eb82d95c
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -925,7 +925,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.timeline@c58b4ee65782
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.timeline@c58b4ee65782
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1108,7 +1108,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.ugui@24b10291b18f
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.ugui@24b10291b18f
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1200,7 +1200,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.5
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.visualscripting@1b53f46e931b
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.visualscripting@1b53f46e931b
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1315,7 +1315,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.7
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.xr.interaction.toolkit@3c62ab08b942
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.xr.interaction.toolkit@3c62ab08b942
   assetPath: Packages/com.unity.xr.interaction.toolkit
   name: com.unity.xr.interaction.toolkit
   displayName: XR Interaction Toolkit
@@ -1498,7 +1498,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.0
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.xr.openxr@97381c723a9c
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.xr.openxr@97381c723a9c
   assetPath: Packages/com.unity.xr.openxr
   name: com.unity.xr.openxr
   displayName: OpenXR Plugin
@@ -4082,7 +4082,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.xr.core-utils@c0df0dd5bced
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.xr.core-utils@c0df0dd5bced
   assetPath: Packages/com.unity.xr.core-utils
   name: com.unity.xr.core-utils
   displayName: XR Core Utilities
@@ -4103,6 +4103,29 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 2.0.0-pre.3
+    - 2.0.0-pre.5
+    - 2.0.0-pre.6
+    - 2.0.0
+    - 2.0.1
+    - 2.1.0-pre.1
+    - 2.1.0
+    - 2.1.1
+    - 2.2.0-pre.1
+    - 2.2.0-pre.2
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.3.0-pre.1
+    - 2.3.0-pre.2
+    - 2.3.0-pre.3
+    - 2.3.0
+    - 2.4.0-exp.1
+    - 2.4.0-exp.2
+    - 2.4.0-exp.3
+    - 2.4.0
+    - 2.5.0
     - 2.5.1
     compatible:
     - 2.5.1
@@ -4138,9 +4161,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638702602921400000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.core-utils@2.5/manual/index.html
   hasRepository: 1
   repository:
@@ -4173,7 +4196,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.5.0
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.xr.management@3126858600e6
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.xr.management@3126858600e6
   assetPath: Packages/com.unity.xr.management
   name: com.unity.xr.management
   displayName: XR Plugin Management
@@ -4325,7 +4348,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.1.11
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.xr.legacyinputhelpers@a3936666e068
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.xr.legacyinputhelpers@a3936666e068
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -4344,6 +4367,31 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3
+    - 1.3.1
+    - 1.3.2
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.11
+    - 2.0.1
+    - 2.0.2
+    - 2.0.4
+    - 2.0.6
+    - 2.0.8
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
     - 2.1.11
     compatible:
     - 2.1.11
@@ -4381,9 +4429,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638627703211970000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.legacyinputhelpers@2.1/manual/index.html
   hasRepository: 1
   repository:
@@ -4416,7 +4464,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.mathematics@8017b507cc74
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -4505,7 +4553,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4584,7 +4632,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.render-pipelines.core@a50b3570474f
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.render-pipelines.core@a50b3570474f
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Core RP Library
@@ -4798,7 +4846,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.shadergraph@911117698220
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.shadergraph@911117698220
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -5001,7 +5049,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.render-pipelines.universal-config@fa63c96d3e1a
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.render-pipelines.universal-config@fa63c96d3e1a
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal RP Config
@@ -5099,7 +5147,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.2
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.searcher@90d011a70418
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.searcher@90d011a70418
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -5185,7 +5233,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.18
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.burst@616862665d8c
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.burst@616862665d8c
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -5405,7 +5453,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.collections@56bff8827a7e
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.collections@56bff8827a7e
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -5573,7 +5621,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.rendering.light-transport@307bc27a498f
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.rendering.light-transport@307bc27a498f
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -5669,7 +5717,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.4
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -5751,7 +5799,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.3
   source: 1
-  resolvedPath: F:\Xr_course\HW1_Room\Library\PackageCache\com.unity.test-framework.performance@fb0dc592af8b
+  resolvedPath: F:\Xr_course\matkol-xr-course-2025\HW1_Room\Library\PackageCache\com.unity.test-framework.performance@fb0dc592af8b
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
